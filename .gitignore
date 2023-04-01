@@ -1,0 +1,12 @@
+__pycache__
+
+data/*
+!data/readme.md
+
+model/*
+!model/readme.md
+
+figrue/*
+!figrue/readme.md
+
+02_Generate_Sample/log.txt
